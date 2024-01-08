@@ -1,2 +1,2 @@
-Simple etch-a-sketch program
+Simple rock-paper-scissors program
 
